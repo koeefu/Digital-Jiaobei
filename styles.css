@@ -1,0 +1,40 @@
+body {
+  overflow: hidden;
+}
+
+#button_go {
+  position: absolute;
+  bottom: 8%;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: rgba(255, 255, 255, 0.85);
+
+  border: solid white 3px;
+  /* display: none; */
+  padding: 20px 36px;
+  border-radius: 12rem;
+  font-family: Spectral;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+#button_go:hover {
+  cursor: pointer;
+  background-color: rgba(255, 255, 255, 1);
+}
+
+#tooltip {
+  display: none;
+  position: absolute;
+  bottom: 80%;
+  left: 15%;
+  background-color: rgba(255, 255, 255, 0.6);
+  color: black;
+  padding: 30px 48px;
+  border-radius: 0.3rem;
+  font-family: Spectral;
+
+  font-family: Spectral;
+  font-size: 20px;
+  font-weight: 700;
+}
