@@ -1,1 +1,13 @@
 An online divine practive about Jiaobei. Jiabei (筊杯) are wooden divination tools originating from China, which are used in pairs and thrown to seek divine guidance in the form of a yes or no question.
+
+
+https://github.com/koeefu/Digital-Jiaobei/assets/102726954/64d975bf-868b-4b5b-8208-7d5baad7628a
+
+
+
+https://github.com/koeefu/Digital-Jiaobei/assets/102726954/cf5891ec-8937-4b9d-bac6-381f9dc7bfc0
+
+
+
+https://github.com/koeefu/Digital-Jiaobei/assets/102726954/737c0b39-35cc-420e-8337-c6707c252668
+
