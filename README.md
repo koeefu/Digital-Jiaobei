@@ -5,6 +5,7 @@ There are three possible answers that the Jiaobei can produce:
 
 https://github.com/koeefu/Digital-Jiaobei/assets/102726954/64d975bf-868b-4b5b-8208-7d5baad7628a
 
+Méijiǎo (沒筊, no answer): Both blocks flat is a 'no' answer. It is said that the gods are displeased or show disagreement with the question, and this is shown in the way the blocks directly fall flat on the floor.
 
 
 https://github.com/koeefu/Digital-Jiaobei/assets/102726954/cf5891ec-8937-4b9d-bac6-381f9dc7bfc0
