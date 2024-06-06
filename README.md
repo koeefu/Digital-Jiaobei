@@ -2,6 +2,4 @@ An online divine practive about Jiaobei. Jiabei (筊杯) are wooden divination t
 There are three possible answers that the Jiaobei can produce:<br/>
 1. Shèngjiǎo (圣筊, divine answer): One block flat and another block round is a 'yes' answer.<br/>
 2. Méijiǎo (沒筊, no answer): Both blocks flat is a 'no' answer. It is said that the gods are displeased or show disagreement with the question, and this is shown in the way the blocks directly fall flat on the floor.<br/>
-3. Xiàojiǎo (笑筊, laughing answer): It is said the gods are laughing at the question depending on what has been asked. It can be interpreted as an emphasized 'no' answer, the question that was asked was unclear, or that the answer to the question is obvious.<br/>
-https://github.com/koeefu/Digital-Jiaobei/assets/102726954/af097761-5dd3-41c9-ad35-0b3f1fc2663d
-
+3. Xiàojiǎo (笑筊, laughing answer): It is said the gods are laughing at the question depending on what has been asked. It can be interpreted as an emphasized 'no' answer, the question that was asked was unclear, or that the answer to the question is obvious.
