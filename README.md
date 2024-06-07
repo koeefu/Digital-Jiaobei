@@ -1,4 +1,4 @@
-An online divine practive about Jiaobei. Jiabei (筊杯) are wooden divination tools originating from China, which are used in pairs and thrown to seek divine guidance in the form of a yes or no question.<br/><br/>
+This is a 3D online divination practice featuring Jiaobei. Jiaobei are wooden divination tools used in pairs and thrown to seek divine guidance, typically from Mazu (妈祖), in response to yes or no questions.<br/><br/>
 There are three possible answers that the Jiaobei can produce:
 1. Shèngjiǎo (圣筊, divine answer): One block flat and another block round is a 'yes' answer:
 
